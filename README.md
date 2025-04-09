@@ -12,13 +12,13 @@
 
 在这里，你能看到
 
-- 基于go语言开发的面试知识库：[jik_interview](https://github.com/jiaking001/jik_interview)
+- 基于 go 语言开发的面试知识库：[jik_interview](https://github.com/jiaking001/jik_interview)
 
-- 基于redis实现的mq：[jikmq](https://github.com/jiaking001/jikmq)
+- 基于 redis 实现的 mq ：[jikmq](https://github.com/jiaking001/jikmq)
 
-- 基于Hertz框架开发的微服务项目：[Gomall](https://github.com/jiaking001/Gomall)
+- 基于 Hertz 框架开发的微服务项目：[Gomall](https://github.com/jiaking001/Gomall)
 
-- 基于go-zero开发的oj平台：[jik_oj](https://github.com/jiaking001/jik_oj)
+- 基于 go-zero 开发的 oj 平台：[jik_oj](https://github.com/jiaking001/jik_oj)
 
 
  ## 今年汇总 ✨
