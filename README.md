@@ -10,6 +10,17 @@
  
  </div>
 
+在这里，你能看到
+
+- 基于go语言开发的面试知识库：[jik_interview](https://github.com/jiaking001/jik_interview)
+
+- 基于redis实现的mq：[jikmq](https://github.com/jiaking001/jikmq)
+
+- 基于Hertz框架开发的微服务项目：[Gomall](https://github.com/jiaking001/Gomall)
+
+- 基于go-zero开发的oj平台：[jik_oj](https://github.com/jiaking001/jik_oj)
+
+
  ## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jiaking001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaking001&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
