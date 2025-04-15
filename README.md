@@ -20,6 +20,8 @@
 
 - 基于 go-zero 开发的 oj 平台：[jik_oj](https://github.com/jiaking001/jik_oj)
 
+- 整合了常用方法的工具包：[jikutils](https://github.com/jiaking001/jikutils)
+
 
  ## 今年汇总 ✨
 
